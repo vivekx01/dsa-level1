@@ -1,3 +1,5 @@
+package M1_SimplePrograms;
+
 import java.util.*;
 public class P7_Printing_reverse_of_number {
     public static void main(String[] args) {

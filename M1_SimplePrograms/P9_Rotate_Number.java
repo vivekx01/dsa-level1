@@ -1,3 +1,5 @@
+package M1_SimplePrograms;
+
 import java.util.*;
 public class P9_Rotate_Number {
     public static void main(String[] args) {

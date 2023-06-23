@@ -1,3 +1,5 @@
+package M1_SimplePrograms;
+
 import java.util.*;
 public class P3_PrimeNumberRange {
     public static void main(String[] args) {

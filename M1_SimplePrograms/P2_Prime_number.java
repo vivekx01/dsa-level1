@@ -1,3 +1,5 @@
+package M1_SimplePrograms;
+
 import java.util.*;
 public class P2_Prime_number {
     public static void main(String[] args) {

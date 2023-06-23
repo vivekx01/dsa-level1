@@ -1,3 +1,5 @@
+package M1_SimplePrograms;
+
 import java.util.*;
 public class P6_Digits_of_number_printed {
     public static void main(String[] args) {

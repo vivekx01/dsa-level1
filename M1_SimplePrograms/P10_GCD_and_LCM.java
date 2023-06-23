@@ -1,3 +1,5 @@
+package M1_SimplePrograms;
+
 import java.util.*;
 public class P10_GCD_and_LCM {
     public static void main(String[] args) {

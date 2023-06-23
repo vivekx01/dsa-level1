@@ -1,4 +1,4 @@
-//we assume that the input we get will contain n numbers each appearing only once
+package M1_SimplePrograms;//we assume that the input we get will contain n numbers each appearing only once
 //example 426135 has all digits from 1 to 6 appearing once
 //we assume the positions as follows:
 // 426135 -> 654321(positions starting from last digit)
