@@ -1,4 +1,4 @@
-package M5_Strings;
+package M5_Strings_arraylist;
 
 public class Stringbuilder_example {
     public static void main(String[] args) {

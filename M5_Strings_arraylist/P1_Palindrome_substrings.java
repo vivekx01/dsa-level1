@@ -1,4 +1,4 @@
-package M5_Strings;
+package M5_Strings_arraylist;
 
 public class P1_Palindrome_substrings {
     public static boolean isPalindrome(String s){

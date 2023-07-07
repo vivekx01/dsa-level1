@@ -1,4 +1,4 @@
-package M5_Strings;
+package M5_Strings_arraylist;
 
 import java.util.Scanner;
 
